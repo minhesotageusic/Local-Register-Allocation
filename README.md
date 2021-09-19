@@ -12,8 +12,9 @@ This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
 	This project implements 3 different local register allocation algorithms,
 	they are as follow
 </p>
-		<br> - Bottom-down allocator (designated as b)
-		<br> - Simple top-down allocator (designated as s) (no MAX_LIVE)
-		<br> - Top-down allocator (designated as t)
-	
+<ul>
+	<li>Bottom-down allocator (designated as b)</li>
+	<li>Simple top-down allocator (designated as s) (no MAX_LIVE)</li>
+	<li>Top-down allocator (designated as t)</li>
+</ul>
 	

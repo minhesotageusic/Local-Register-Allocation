@@ -22,5 +22,7 @@ This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
 <p>	Where k is the number of local registers to be used on target machine</p>
 <p>	a is the allocation algorithm to be used on the given file</p>
 <p>	f is the original file containing sequence of ILOC operation</p>
+<p>	ex: 5 s file.i</p>
+
 <h4>Output:</h4>
 <p>	The modified file will be written to stdout</p>

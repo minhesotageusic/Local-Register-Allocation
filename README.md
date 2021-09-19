@@ -26,3 +26,5 @@ This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
 
 <h4>Output:</h4>
 <p>	The modified file will be written to stdout</p>
+<h5>Project Owner: Minhesota Geusic</h5>
+<h5>Copyright © 2021 Minhesota Geusic</h5>

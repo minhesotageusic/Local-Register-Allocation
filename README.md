@@ -11,8 +11,8 @@ Description:
 <br />	output file should use no more than k registers as specified by the user.
 <br />	This project implements 3 different local register allocation algorithms,
 <br />	they are as follow
-		<br />- Bottom-down allocator (designated as b)
-		<br />- Simple top-down allocator (designated as s) (no MAX_LIVE)
-		<br />- Top-down allocator (designated as t)
+-		<br /> Bottom-down allocator (designated as b)
+-		<br /> Simple top-down allocator (designated as s) (no MAX_LIVE)
+-		<br /> Top-down allocator (designated as t)
 	
 	

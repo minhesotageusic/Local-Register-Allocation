@@ -17,6 +17,13 @@ This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
 	<li>Simple top-down allocator (designated as s) (no MAX_LIVE)</li>
 	<li>Top-down allocator (designated as t)</li>
 </ul>
+
+<h4>Block</h4>
+<p> The block directory contain examples ILOC files that can be use for this project. However, you will have to use your own ILOC simulator to run the output file.</p>
+
+<h4>Compiling:</h4>
+<p> Use makefile</p>
+
 <h4>Input:</h4>
 <p>	In command prompt type k a f</p>
 <p>	Where k is the number of local registers to be used on target machine</p>

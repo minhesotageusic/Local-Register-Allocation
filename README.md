@@ -1,8 +1,8 @@
 # Local-Register-Allocation
- 
+<br />
 This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
-
-Description:
+<br />
+Description:<br />
 	This project takes an input file containing a sequence of ILOC operations,
 	along with k a number of registers for the assumed allocator that will use
 	the output modified ILOC file by this project, and the algorithm that will

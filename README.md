@@ -17,4 +17,10 @@ This project was done for Rutgers CS 415 project 1 of Spring semester, 2021.
 	<li>Simple top-down allocator (designated as s) (no MAX_LIVE)</li>
 	<li>Top-down allocator (designated as t)</li>
 </ul>
-	
+<h4>Input:</h4>
+<p>	In command prompt type k a f</p>
+<p>	Where k is the number of local registers to be used on target machine</p>
+<p>	a is the allocation algorithm to be used on the given file</p>
+<p>	f is the original file containing sequence of ILOC operation</p>
+<h4>Output:</h4>
+<p>	The modified file will be written to stdout</p>
